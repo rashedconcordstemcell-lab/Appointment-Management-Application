@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Sales Intelligence",
+  "description": "High-performance sales management dashboard with real-time analytics and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
